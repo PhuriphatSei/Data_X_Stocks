@@ -5,5 +5,4 @@ This project fetches fundamental financial data for selected SET50 stocks using 
 
 **File Structure**
 
-
 <img width="730" height="318" alt="image" src="https://github.com/user-attachments/assets/c9dbf080-a99b-491a-a99c-da5e2b42072f" />
