@@ -6,3 +6,11 @@ This project fetches fundamental financial data for selected SET50 stocks using 
 **File Structure**
 
 <img width="730" height="318" alt="image" src="https://github.com/user-attachments/assets/c9dbf080-a99b-491a-a99c-da5e2b42072f" />
+
+------------------------------------------------------------------------------------------------------------------------------
+
+**Result**
+
+<img width="3000" height="1800" alt="pe_roe_trend" src="https://github.com/user-attachments/assets/26b04472-e879-4346-a91d-f941ad9a0903" />
+
+------------------------------------------------------------------------------------------------------------------------------
