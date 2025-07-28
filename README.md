@@ -38,6 +38,8 @@ This tool is useful for fundamental stock analysis, valuation comparison, and vi
 <img width="3000" height="1800" alt="pe_roe_trend" src="https://github.com/user-attachments/assets/26b04472-e879-4346-a91d-f941ad9a0903" />
 
 
+<img width="1103" height="449" alt="Screenshot 2025-07-27 222130" src="https://github.com/user-attachments/assets/b6473024-8d68-43bb-8d5d-5eb9a3d99c39" />
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 ### 📘 คำอธิบายคำศัพท์
