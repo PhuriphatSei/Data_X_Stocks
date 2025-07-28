@@ -37,7 +37,6 @@ This tool is useful for fundamental stock analysis, valuation comparison, and vi
 
 <img width="3000" height="1800" alt="pe_roe_trend" src="https://github.com/user-attachments/assets/26b04472-e879-4346-a91d-f941ad9a0903" />
 
-<img width="1103" height="449" alt="image" src="https://github.com/user-attachments/assets/2da09a68-97f8-4910-acbb-45c9299f56f7" />
 
 
 ------------------------------------------------------------------------------------------------------------------------------
