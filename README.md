@@ -146,10 +146,10 @@ This tool is useful for fundamental stock analysis, valuation comparison, and vi
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-🧑‍💻 Author
+#### 🧑‍💻 Author
 Phuriphat Sei sunsuk
 
-🎓 Applied Data Science graduate (GPA 2.82)
-📈 Passionate about equity research, valuation models, and financial data
-💼 Aspiring Junior Analyst / Research Assistant
-🔗 GitHub: PhuriphatSei
+- 🎓 Applied Data Science graduate (GPA 2.82)
+- 📈 Passionate about equity research, valuation models, and financial data
+- 💼 Aspiring Junior Analyst / Research Assistant
+- 🔗 GitHub: PhuriphatSei
